@@ -1,0 +1,9 @@
+{
+"TOTAL_MEMORY": 268435456,
+"dataUrl": "VikingsPlunder.data.unityweb",
+"asmCodeUrl": "VikingsPlunder.asm.code.unityweb",
+"asmMemoryUrl": "VikingsPlunder.asm.memory.unityweb",
+"asmFrameworkUrl": "VikingsPlunder.asm.framework.unityweb",
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20"
+}

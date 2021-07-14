@@ -1,0 +1,26 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\PlayerCharacter\Scripts\Player.cs">
+    <Files>
+      <File FileName="Assets\PlayerCharacter\Scripts\Player.cs" Line="389" Column="53" />
+      <File FileName="Assets\Scripts\ThrownAxe.cs" Line="1" Column="1" />
+      <File FileName="Assets\Enemies\Scripts\Enemy.cs" Line="182" Column="4" />
+      <File FileName="Assets\Enemies\Scripts\EnemyStates\IdleState.cs" Line="11" Column="55" />
+      <File FileName="Assets\Enemies\Scripts\EnemyStates\PatrolState.cs" Line="21" Column="18" />
+      <File FileName="Assets\Enemies\Scripts\EnemyStates\MeleeState.cs" Line="23" Column="23" />
+      <File FileName="Assets\Enemies\Scripts\EnemyStates\RangedState.cs" Line="15" Column="9" />
+      <File FileName="Assets\Scripts\VertMovingPlatform.cs" Line="17" Column="11" />
+      <File FileName="Assets\Scripts\HorzMovingPlatform.cs" Line="16" Column="11" />
+      <File FileName="Assets\AnimationBehviors\AttackBehavior.cs" Line="35" Column="89" />
+      <File FileName="Assets\Scripts\Character.cs" Line="1" Column="1" />
+      <File FileName="Assets\Enemies\Scripts\EnemySight.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\IgnoreCollision.cs" Line="1" Column="1" />
+      <File FileName="Assets\GameManagment\DropManager.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\ChangingScenes.cs" Line="51" Column="27" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
